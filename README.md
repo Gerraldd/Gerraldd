@@ -2,6 +2,8 @@
 
 🎓 **Siswa SMK** | 💻 **Front-End Developer Pemula** | 🚀 **Semangat Belajar Koding**
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding gif">
+
 ---
 
 ## 🚀 Tentang Saya
