@@ -1,4 +1,4 @@
-# 👋 Halo, saya [Muhammad Geral Herpavy]!
+# 👋 Halo, saya Muhammad Geral Herpavy!
 
 🎨 **Front-End Developer** | 💻 **Pecinta UI/UX** | 🚀 **Penggemar Web Modern**
 
