@@ -1,48 +1,52 @@
 # 👋 Halo, saya Muhammad Geral Herpavy!
 
-🎨 **Front-End Developer** | 💻 **Pecinta UI/UX** | 🚀 **Penggemar Web Modern**
+🎓 **Siswa SMK** | 💻 **Front-End Developer Pemula** | 🚀 **Semangat Belajar Koding**
 
 ---
 
 ## 🚀 Tentang Saya
 
-Saya adalah seorang **Front-End Developer** yang antusias dalam membangun tampilan web yang interaktif dan memikat. Fokus utama saya adalah menciptakan desain yang **responsive**, kode yang **bersih**, dan pengalaman pengguna yang **nyaman**.
+Saya adalah seorang **siswa SMK** yang sedang belajar dan mendalami dunia **Front-End Development**. Saat ini, saya masih dalam tahap **pemula**, namun sangat antusias untuk terus berkembang di bidang **pemrograman web**.
 
-- 🌱 Saat ini sedang memperdalam **React**, **Next.js**, dan **Tailwind CSS**
-- ⚡ Tertarik dengan **optimasi performa** dan **aksesibilitas web**
-- 🤝 Terbuka untuk kolaborasi project, freelance, atau open source
-- 🎨 Suka eksplorasi ide kreatif untuk desain & pengalaman pengguna
+- 🎯 Fokus saat ini: memperdalam **JavaScript** dan membangun dasar yang kuat di dunia web development
+- 📚 Suka belajar hal-hal baru seputar teknologi web dan pengembangan tampilan website
+- 💡 Senang membuat project sederhana untuk latihan dan meningkatkan keterampilan saya
+- 🤝 Terbuka untuk belajar bareng, diskusi, atau kolaborasi project kecil!
 
 ---
 
-## 🛠️ Teknologi yang Saya Gunakan
+## 🛠️ Teknologi yang Sedang Saya Gunakan
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 Statistik GitHub Saya
+## 📈 Perjalanan Belajar
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Gerraldd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerraldd&layout=compact&theme=tokyonight)
+Saat ini saya sedang:
 
----
+- 🔍 Mempelajari **JavaScript** lebih dalam (DOM, Event Handling, dan Basic OOP)
+- ✨ Membuat project sederhana seperti **website portofolio** dan **to-do list**
+- 🔨 Latihan membangun website dengan **HTML, CSS, dan JavaScript** vanilla
 
-## 🌐 Temukan Saya di
-
-[![Portofolio](https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
+Saya percaya bahwa **proses belajar** adalah kunci, dan saya siap menghadapi tantangan untuk menjadi developer yang lebih baik di masa depan!
 
 ---
 
-> “Desain bukan hanya soal tampilan, tapi juga bagaimana rasanya saat digunakan.” – Steve Jobs
+## 📊 Statistik GitHub
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Gerraldd&show_icons=true&theme=onedark)
+
+---
+
+## 🌐 Hubungi Saya
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geraldhrpvy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) <!-- opsional -->
+
+---
+
+> “Belajar koding itu seperti naik sepeda, jatuh itu wajar, yang penting terus kayuh.” 🚴‍♂️
 
