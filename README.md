@@ -2,7 +2,7 @@
 
 🎓 **Siswa SMK** | 💻 **Front-End Developer Pemula** | 🚀 **Semangat Belajar Koding**
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding gif">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Coding gif">
 
 ---
 
@@ -51,4 +51,6 @@ Saya percaya bahwa **proses belajar** adalah kunci, dan saya siap menghadapi tan
 ---
 
 > “Belajar koding itu seperti naik sepeda, jatuh itu wajar, yang penting terus kayuh.” 🚴‍♂️
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="200" alt="Developer gif">
 
