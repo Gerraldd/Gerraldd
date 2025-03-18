@@ -31,8 +31,8 @@ Saya adalah seorang **Front-End Developer** yang antusias dalam membangun tampil
 
 ## 📊 Statistik GitHub Saya
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Gerraldd&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerraldd&layout=compact&theme=tokyonight)
 
 ---
 
