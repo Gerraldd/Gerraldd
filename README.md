@@ -1,11 +1,11 @@
 # 👋 Halo, saya Muhammad Geral Herpavy!
 🎓 **Siswa SMK** | 💻 **Front-End Developer Pemula** | 🚀 **Semangat Belajar Koding**
----
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="Coding animation">
 </div>
 
-![---](https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966)
+![---](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 ## 🚀 Tentang Saya
 Saya adalah seorang **siswa SMK** yang sedang belajar dan mendalami dunia **Front-End Development**. Saat ini, saya masih dalam tahap **pemula**, namun sangat antusias untuk terus berkembang di bidang **pemrograman web**.
