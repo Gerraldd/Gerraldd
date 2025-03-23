@@ -1,8 +1,9 @@
 # 👋 Halo, saya Muhammad Geral Herpavy!
 🎓 **Siswa SMK** | 💻 **Front-End Developer Pemula** | 🚀 **Semangat Belajar Koding**
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="Coding animation">
+[<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="Coding animation">](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
----
+[[---](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)]
+
 ## 🚀 Tentang Saya
 Saya adalah seorang **siswa SMK** yang sedang belajar dan mendalami dunia **Front-End Development**. Saat ini, saya masih dalam tahap **pemula**, namun sangat antusias untuk terus berkembang di bidang **pemrograman web**.
 - 🎯 Fokus saat ini: memperdalam **JavaScript** dan membangun dasar yang kuat di dunia web development
@@ -45,7 +46,6 @@ Saya percaya bahwa **proses belajar** adalah kunci, dan saya siap menghadapi tan
 ---
 ## 🌐 Hubungi Saya
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geraldhrpvy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) <!-- opsional -->
 
 ---
 > "Belajar koding itu seperti naik sepeda, jatuh itu wajar, yang penting terus kayuh." 🚴‍♂️
