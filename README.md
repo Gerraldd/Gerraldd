@@ -8,6 +8,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Cat & Mouse">
 </div>
+
+---
 ## 🚀 Tentang Saya
 Saya adalah seorang **siswa SMK** yang sedang belajar dan mendalami dunia **Front-End Development**. Saat ini, saya masih dalam tahap **pemula**, namun sangat antusias untuk terus berkembang di bidang **pemrograman web**.
 - 🎯 Fokus saat ini: memperdalam **JavaScript** dan membangun dasar yang kuat di dunia web development
