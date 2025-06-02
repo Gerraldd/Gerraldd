@@ -51,7 +51,7 @@ Saya percaya bahwa **proses belajar** adalah kunci, dan saya siap menghadapi tan
 
 ---
 ## 🌐 Hubungi Saya
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geraldhrpvy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geraldhrpy/)
 
 ---
 > "Belajar koding itu seperti naik sepeda, jatuh itu wajar, yang penting terus kayuh." 🚴‍♂️
